@@ -23336,7 +23336,7 @@ s=5
 return A.Q(A.aho(),$async$kg)
 case 5:m=l.ax(["id",b,"token",n],o,t.T)
 s=6
-return A.Q(new A.Th(A.aJ(t.lZ)).tS("PUT",A.fQ("https://sc4uidjkwe.execute-api.us-west-1.amazonaws.com/sams/token"),A.ax(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET, POST, PUT","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],o,o),B.aW.kf(m),null),$async$kg)
+return A.Q(new A.Th(A.aJ(t.lZ)).tS("PUT",A.fQ("https://2210bmql34.execute-api.ap-northeast-2.amazonaws.com/sams/token"),A.ax(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET, POST, PUT","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],o,o),B.aW.kf(m),null),$async$kg)
 case 6:o=$.he
 p=(o==null?$.he=$.rQ():o).n4("[DEFAULT]")
 A.ip(p,q,!0)
