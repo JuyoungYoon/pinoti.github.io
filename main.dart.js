@@ -72338,7 +72338,7 @@ r=n.a.d
 r.ra(r,new A.a3J(s))
 for(r=n.a.d,r=r.gd7(r),r=r.gR(r),q=t.Mm;r.t();){p=r.gD(r)
 o=p.b
-if(s-o.gvD()>1000){p=p.a
+if(s-o.gvD()>1200){p=p.a
 A.aiN(B.d.W("false ",p))
 n.a.d.l(0,p,new A.lq(o.gvD(),o.gvE(),o.gvF(),!1,q))}}s=n.a.d
 s.ra(s,new A.a3K())
@@ -72350,7 +72350,7 @@ new A.cU(s,A.p(s).h("cU<1>")).lQ(new A.a3O(this))},
 N(a){var s=null,r=A.afN(s,B.NK),q=A.cM(a,s,t.w).w,p=A.qo(B.ku,10,s),o=A.anb("Reset",s,s,s,s,s,s),n=A.qo(B.ku,30,s),m=A.hZ(s,new A.v9(A.ay7(s,s,new A.ox("assets/blueprint.png",s,s)),s),B.r,s,s,s,s,s,s,s,s,s,s),l=this.a,k=t.F
 return A.ah9(r,A.Ub(new A.vi(A.hZ(B.U,A.auF(A.a([p,new A.Ej(new A.a3I(this),s,s,s,s,B.r,s,!1,s,o,s),n,A.xM(B.cn,A.a([m,A.hZ(s,A.DK(s,s,s,new A.Gh(l.c,l.d,a,s)),B.r,s,s,s,s,s,s,s,s,s,s)],k),B.a4,B.cc,s)],k),B.hG,B.q3),B.r,s,s,new A.dp(B.i,s,s,s,s,s,B.aJ),s,s,s,s,s,s,q.a.a),s),s,s))}}
 A.a3J.prototype={
-$2(a,b){return this.a-b.a>1000},
+$2(a,b){return this.a-b.a>1200},
 $S:151}
 A.a3K.prototype={
 $2(a,b){return!b.d},
