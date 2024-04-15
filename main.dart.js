@@ -23438,7 +23438,7 @@ s=5
 return A.Q(A.ahN(),$async$kj)
 case 5:m=l.ay(["id",b,"token",n],o,t.v)
 s=6
-return A.Q(new A.Tr(A.aJ(t.lZ)).tU("PUT",A.fQ("https://2210bmql34.execute-api.ap-northeast-2.amazonaws.com/sams/token"),A.ay(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET, POST, PUT","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],o,o),B.aX.kh(m),null),$async$kj)
+return A.Q(new A.Tr(A.aJ(t.lZ)).tU("PUT",A.fQ("https://sc4uidjkwe.execute-api.us-west-1.amazonaws.com/sams/token"),A.ay(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET, POST, PUT","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],o,o),B.aX.kh(m),null),$async$kj)
 case 6:o=$.he
 p=(o==null?$.he=$.rV():o).n7("[DEFAULT]")
 A.iq(p,q,!0)
