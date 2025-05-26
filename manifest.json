@@ -1,11 +1,11 @@
 {
-    "name": "pi_noti",
-    "short_name": "pi_noti",
+    "name": "Plus Agent",
+    "short_name": "Plus Agent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "notification for PI",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
